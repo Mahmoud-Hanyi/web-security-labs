@@ -28,6 +28,4 @@ Why does it work?
 Result:
 
 username = administrator
-password check = ignored
-        ↓
-Login as administrator
+password check = ignored -> Login as administrator
