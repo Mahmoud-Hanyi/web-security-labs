@@ -1,4 +1,4 @@
-# SQL Injection — Login Authentication Bypass
+# Lab 2: SQL injection vulnerability allowing login bypass
 
 
 Original Query:
