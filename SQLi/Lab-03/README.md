@@ -1,4 +1,4 @@
-# SQL Injection — Database Version Extraction
+# Lab 3: SQL injection attack, querying the database type and version on Oracle
 
 
 Original Query:
