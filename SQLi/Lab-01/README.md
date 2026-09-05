@@ -29,12 +29,4 @@ Why does it work?
 
 Result:
 
-1=1 → TRUE
-        ↓
-OR TRUE
-        ↓
-The WHERE condition becomes TRUE
-        ↓
-released=1 is ignored
-        ↓
-Unreleased products are displayed
+1=1 → TRUE → OR TRUE → The WHERE condition becomes TRUE → released=1 is ignored → Unreleased products are displayed
