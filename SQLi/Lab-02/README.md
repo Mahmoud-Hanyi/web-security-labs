@@ -1,6 +1,5 @@
-==================================================
-SQL Injection — Login Authentication Bypass
-==================================================
+# SQL Injection — Login Authentication Bypass
+
 
 Original Query:
 
